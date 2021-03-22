@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Un simple proyecto en React para tener el control de los gastos y ingresos.
+Usando React Hooks y Context API
 
 ## Available Scripts
 
